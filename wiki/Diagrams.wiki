@@ -1,0 +1,11 @@
+#summary Implementation/Components Diagram.
+#labels Featured,Phase-Design,Phase-Implementation
+
+= Implementation/Components Diagram =
+
+== Post request diagram ==
+http://atom-php-framework.googlecode.com/svn/trunk/docs/get-implementation-diagram.jpg
+
+== Get request diagram ==
+http://atom-php-framework.googlecode.com/svn/trunk/docs/post-implementation-diagram.jpg
+
