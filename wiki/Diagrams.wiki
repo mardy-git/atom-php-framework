@@ -3,9 +3,8 @@
 
 = Implementation/Components Diagram =
 
-== Post request diagram ==
+== GET request diagram ==
 http://atom-php-framework.googlecode.com/svn/trunk/docs/get-implementation-diagram.jpg
 
-== Get request diagram ==
+== POST request diagram ==
 http://atom-php-framework.googlecode.com/svn/trunk/docs/post-implementation-diagram.jpg
-
